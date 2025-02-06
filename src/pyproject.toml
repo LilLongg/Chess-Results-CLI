@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Chess-Results-CLI"
+dynamic = ["version"]
+dependencies = ["pandas", "Requests", "setuptools", "openpyxl"]
+
+[project.scripts]
+chessres = "chessres:main"
