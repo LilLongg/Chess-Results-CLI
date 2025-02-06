@@ -6,7 +6,9 @@
 
 **Demo**
 
-![](./demo/DemoChessres.mp4)
+<video width="720" height="480" controls>
+  <source src="demo/DemoChessres.mp4" type="video/mp4">
+</video>
 
 **Cài đặt**
 
