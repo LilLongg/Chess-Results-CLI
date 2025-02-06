@@ -6,9 +6,7 @@
 
 **Demo**
 
-<video width="720" height="480" controls>
-  <source src="demo/DemoChessres.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/31af8a7f-f99a-4b77-bcf9-5a8e343dcaab
 
 **Cài đặt**
 
