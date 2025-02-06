@@ -6,8 +6,12 @@
 
 **Cài đặt**
 
-`git clone https://github.com/LilLongg/Tournament-Checker.git`
+`git clone https://github.com/LilLongg/Chess-Results-CLI.git`
 
-`pip install Tournament-Checker/src`
+`pip install -e Chess-Results-CLI/src`
 
 Và bạn đã có thể sử dụng script này.
+
+**Gỡ cài đặt**
+
+`pip uninstall chess-results-cli`
